@@ -15,7 +15,7 @@
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 
 ### My github stats
-[![Red's](https://github-readme-stats.vercel.app/api?username=Redux3)]
+[![Red's](https://github-readme-stats.vercel.app/api?username=Redux3_private=true&theme=vision-friendly-dark&show_icons=true))]
 ### My favourite browser
 
 [![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)](https://www.mozilla.org/en-US/firefox/new/)
